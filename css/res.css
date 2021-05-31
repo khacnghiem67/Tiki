@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1250px) {
+    header .header__wrapper .header__main {
+        padding: 0;
+    }
+}

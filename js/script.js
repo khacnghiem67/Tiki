@@ -1,7 +1,7 @@
 var slideImgUrl = [
-    './res/slider/be81e2156103e22f037fadcb4d8c4f9f.jpg',
-    './res/slider/f369ff760fa03210821fa57f43c9da0d.png.jpg',
-    './res/slider/f2e35478fbef7664e273a3c448e6e3a2.png.jpg',
+    '../res/slider/be81e2156103e22f037fadcb4d8c4f9f.jpg',
+    '../res/slider/f369ff760fa03210821fa57f43c9da0d.png.jpg',
+    '../res/slider/f2e35478fbef7664e273a3c448e6e3a2.png.jpg',
 ];
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
